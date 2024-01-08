@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🎓 I'm a Computer Science undergraduate at BIT Mesra, exploring **Adobe Experience Manager, PostgreSQL, Natural Language Processing, and LL Transformer models**.
+🎓 I'm a Computer Science undergraduate at BIT Mesra, currently exploring **Adobe Experience Manager, PostgreSQL, Natural Language Processing, and LL Transformer models**.
 
 💡 Let's discuss about **Artificial Intelligence**, **Machine Learning** and **data structures**; I love talking about them.
 
