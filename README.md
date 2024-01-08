@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+Agrawal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India <span style="font-size: 70%; text-transform: uppercase;">IND</span></h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
@@ -18,6 +18,7 @@
 
 </div>
 
+![image](https://github.com/mukulrajpoot262610/mukulrajpoot262610/assets/73209159/02ff749b-8ab8-4bac-b61f-326252056711)
  
 <div align="center"> 
   <a href="mailto:prashant07.ag@gmail.com">
@@ -41,31 +42,15 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prashant07ag/prashant07ag/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
+<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=prashant07ag&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=prashant07ag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-prashant07ag.vercel.app/api/top-langs/?username=prashant07ag&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
+|<img align=center alt="prashant07ag's streak" src="https://github-readme-stats.vercel.app/api?username=prashant07ag&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant07ag" />
+|---|---|
 
 <br/>
-
+<div align="center" style="margin-bottom: 20px;">
+  <button style="padding: 10px 20px; font-size: 18px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">I Love My India 🇮🇳</button>
+</div>
 <br/>
