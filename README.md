@@ -10,11 +10,11 @@
 
 <div align="center">
  
-🎓 I'm a Computer Science undergraduate at BIT Mesra, currently exploring **Adobe Experience Manager, PostgreSQL, Natural Language Processing, and LL Transformer models**.
+🎓 I am a Computer Science graduate from Birla Institute of Technology, Mesra, currently working as a Software Developer with expertise in **JavaScript, HTML, CSS, PostgreSQL, and experience in NLP and Transformer models**.
 
-💡 Let's discuss about **Artificial Intelligence**, **Machine Learning** and **data structures**; I love talking about them.
+💡 Passionate about **Artificial Intelligence, Machine Learning, and problem-solving**, I focus on **performance optimization, scalable systems, and innovative solutions**.
 
-⚡ Fun fact: **I code Data Structures and Algorithms in C++, do machine learning in Python, develop apps in Dart (Flutter), but my favorite programming language is JavaScript – because nothing makes me question my life choices quite like asynchronous callbacks! 😄🚀**
+⚡ Proficient in **C++, Python, and Dart (Flutter)**, I bring a versatile approach to development, with JavaScript being my go-to for crafting modern, dynamic applications. 🚀
 
 </div>
 
